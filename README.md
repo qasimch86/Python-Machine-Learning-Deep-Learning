@@ -1,2 +1,2 @@
-# Python-Machine-Learning-Deep-Learning
-Python Machine Learning and Deep Learning
+# Machine-Learning-with-Python
+Python codes for common Machine Learning Algorithms
